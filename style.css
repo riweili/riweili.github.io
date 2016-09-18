@@ -48,11 +48,20 @@ nav a {
     top:-280px;
     left:575px;
     padding-top: 525px;
-    color: blue;
 }
-h2{
+div>a{
+    font-size:3em;
+    letter-spacing: 11px;
+    color:green;
+    text-decoration:none;
+    position: relative;
+    top:-40px;
+    left:17px;
+}
+footer{
     font-size:5em;
+    letter-spacing: 20px;
     position: relative;
     top:-310px;
-    left: 120px;
+    left:100px;
     color: darkred;}
