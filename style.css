@@ -10,7 +10,7 @@ h1{
     font-size: 6.5em;
     color: purple;
     position: relative;
-    top:-35px;
+    top:-70px;
     left: 85px;
     letter-spacing: 100px;
     
@@ -19,7 +19,7 @@ p{  font-size:4em;
     letter-spacing: 5px;
     font-style:oblique;
     position:relative;
-    top: -122px;
+    top: -150px;
     left: 410px;
     color: red;
 }
@@ -31,10 +31,10 @@ nav ul>li {
     padding: 0.1px 70px 20px 70px;
     display: inline-block;
     position: relative;
-    top:-200px;
+    top:-270px;
     left: 110px;
     margin: 55px;
-    border:3px solid #382aa5;
+    border:3px dashed #382aa5;
     background-color:darkorange
 }
 nav a {
@@ -43,6 +43,6 @@ nav a {
 }
 .a{
     position: relative;
-    top:-200px;
+    top:-310px;
     left: 550px;
 }
