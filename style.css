@@ -41,14 +41,18 @@ nav a {
     text-decoration: none;
     color: brown;
 }
-.a{
+.a{background: url(image/2.jpg);
+    background-repeat: no-repeat;
+    width: 40%;
     position: relative;
-    top:-330px;
-    left: 550px;
+    top:-280px;
+    left:575px;
+    padding-top: 525px;
+    color: blue;
 }
 h2{
-    font-size:40px;
+    font-size:5em;
     position: relative;
-    top:-700px;
-    left: 50px;
-    color: black;}
+    top:-310px;
+    left: 120px;
+    color: darkred;}
