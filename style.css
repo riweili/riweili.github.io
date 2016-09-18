@@ -1,0 +1,48 @@
+*{
+    font-size: 20px;  
+    font-family:  Arial;
+}
+body{
+    background-image:url(作業用/6.jpg);
+    background-repeat:repeat;
+}
+h1{
+    font-size: 6.5em;
+    color: purple;
+    position: relative;
+    top:-35px;
+    left: 85px;
+    letter-spacing: 100px;
+    
+}
+p{  font-size:4em;
+    letter-spacing: 5px;
+    font-style:oblique;
+    position:relative;
+    top: -122px;
+    left: 410px;
+    color: red;
+}
+nav ul>li {
+    font-size:3em;
+    font-weight:900;
+    list-style-type:none;
+    letter-spacing: 5px;
+    padding: 0.1px 70px 20px 70px;
+    display: inline-block;
+    position: relative;
+    top:-200px;
+    left: 110px;
+    margin: 55px;
+    border:3px solid #382aa5;
+    background-color:darkorange
+}
+nav a {
+    text-decoration: none;
+    color: brown;
+}
+.a{
+    position: relative;
+    top:-200px;
+    left: 550px;
+}
