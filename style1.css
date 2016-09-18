@@ -23,26 +23,9 @@ p{  font-size:4em;
     left: 370px;
     color: red;
 }
-nav ul>li {
-    font-size:2.5em;
-    font-weight:900;
-    list-style-type:none;
-    letter-spacing: 5px;
-    padding: 0.1px 70px 20px 70px;
-    display: inline-block;
-    position: relative;
-    top:-270px;
-    left: 50px;
-    margin: 60px;
-    border:5px dashed #382aa5;
-    background-color:darkorange
-}
-nav a {
-    text-decoration: none;
-    color: brown;
-}
+
 .a{
     position: relative;
-    top:-300px;
+    top:-180px;
     left: 550px;
 }
