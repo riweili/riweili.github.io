@@ -50,18 +50,18 @@ nav a {
     padding-top: 525px;
 }
 div>a{
-    font-size:3em;
-    letter-spacing: 11px;
-    color:green;
+    font-size:3.5em;
+    letter-spacing: 15px;
+    color:rebeccapurple;
     text-decoration:none;
     position: relative;
-    top:-40px;
-    left:17px;
+    top:-50px;
+    left:390px;
 }
 footer{
     font-size:5em;
     letter-spacing: 20px;
     position: relative;
     top:-310px;
-    left:100px;
+    left:1180px;
     color: darkred;}
