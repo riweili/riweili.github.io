@@ -51,12 +51,13 @@ nav a {
 }
 div>a{
     font-size:3.5em;
-    letter-spacing: 15px;
+    letter-spacing: 10px;
     color:rebeccapurple;
     text-decoration:none;
     position: relative;
-    top:-50px;
-    left:390px;
+    top:-75px;
+    left:399px;
+    border: 2px dotted rebeccapurple;
 }
 footer{
     font-size:5em;
