@@ -1,0 +1,78 @@
+@font-face {
+    font-family: NotoSansTC-Regular;
+    src: url(fonts/NotoSansTC-Regular.otf);
+}
+
+* {
+    font-size: 20px;
+    letter-spacing: 0.1px;
+    font-family: NotoSansTC-Regular, sans-serif, Arial;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(image/23.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-size: 3em;
+    color: blue;
+    text-align: center;
+    letter-spacing: 75px;
+    font-style: italic;
+}
+
+.container {
+    width: 95%;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+.thumbnail {
+    width: 30%;
+    height: 400px;
+    float: left;
+    padding: 5px;
+    margin: 5px;
+    overflow: auto;
+}
+
+p {
+    font-size: 2em;
+    color: rgba(196, 8, 8, 0.97);
+    background-color: darkturquoise;
+    font-weight: bolder;
+    font-style: italic;
+    position: relative;
+    top: 20px
+}
+
+ul {
+    background-color: darkseagreen;
+}
+
+li {
+    font-size: 1.1em;
+    list-style-type: none;
+    color: #722323;
+    font-style: italic;
+    line-height: 40px;
+}
+
+#winne {
+    background-image: url(image/26.jpg);
+    background-size: 260px 200px;
+    background-repeat: no-repeat;
+    background-position: 265px 155px;
+}
+
+.footer {
+    font-size: 1em;
+    position:fixed;
+    bottom: 5px;
+    left: 1800px;
+    border: dashed 2px purple;
+}
