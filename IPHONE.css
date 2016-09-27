@@ -89,6 +89,13 @@ nav ul>li{font-size: 30px;
     border: double brown 10px;
     position: relative;
     left: 1000px;
-    top:-50px        
+    top:-50px;
+    background-color: aqua;
 }
+nav a{
+     text-decoration: none;
+}
+a:hover {font-size:50px; color:#ff0000;text-decoration: none;} 
+a:active {color:purple;text-decoration: none;}
+a:visited {color:red; text-decoration:none;} 
     
