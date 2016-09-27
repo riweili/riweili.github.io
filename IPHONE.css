@@ -1,0 +1,83 @@
+    
+    .back {
+        width: 320px;
+        height: 645px;
+        margin: 125px 278px;
+        border-radius: 50px;
+        position: relative;
+        top:45px;
+        left: 180px;
+        background-color: gray;
+    }
+    
+    .screen {
+        width: 310px;
+        height: 640px;
+        margin: 2.5px;
+        padding-top:1.5px;
+        padding-left: 2px;
+        border-radius: 50px;
+        background-color: black;
+    }
+    .top {
+        width: 250px;
+        height: 33px;
+        padding-top: 15px;
+        margin-left: 30px;
+        border-radius: 50px;
+    }
+    
+    .top-left {
+        background-color: dimgray;
+        float: left;
+        width: 7px;
+        height: 7px;s
+        border-radius: 45px;
+        border-style: :ridge;
+        border-color: #4E4E4E;
+        margin-left: 75px;
+        margin-top: 16px;
+    }
+    
+    .top-right {
+        background-color: dimgray;
+        float: left;
+        width: 60px;
+        height: 9px;
+        margin-top: 15px;
+        margin-left: 13px;
+        border-radius: 50px;
+    }
+    .top-top {
+        background-color: dimgray;
+        float: left;
+        width: 8px;
+        height: 8px;
+        margin-top: -2px;
+        margin-left: -33px;
+        border-radius: 50px;
+    }
+    .mid {
+        background-color: white;
+        margin-top: 11px;
+        margin-left: 8px;
+        width: 295px;
+        height: 510px;
+        display: inline-block;
+    }
+    
+    .button {
+        background-color:black;
+        width: 40px;
+        height: 40px;
+        margin-top: 6px;
+        margin-left: 140px;
+        border-radius: 50px;
+        border-style:ridge;
+        display: inline-block;
+    }
+    
+    iframe {
+        height: 515px;
+        width: 100%;
+    }
