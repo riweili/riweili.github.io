@@ -1,0 +1,138 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+.header{
+     background-color:black;
+}
+.header>ul>a{
+    font-size: 1.3em;
+    display: inline-block;
+    padding: 0.6em;
+    position: relative;
+    left:16em;
+    color: grey;
+    list-style-type:none;
+    text-decoration: none;
+}
+.header>ul>a:hover{
+    color: white;
+}
+.middle{
+    border: 1px;
+    border-radius: 5px;
+    background-color: #f5e9e9;
+    margin-top: 4em;
+    margin-bottom: 1.7em;
+    height: 16.5em;
+    width:59%;
+    position: relative;
+    left: 21em;
+    padding: 3em;
+}
+.middle>h1{
+    font-size: 3.5em;
+}
+.middle>p{
+    font-size: 1.3em;
+}
+.middle>a{
+    font-size: 1em;
+    border: 1px solid blue;
+    border-radius: 5px; 
+    padding: 10px;
+    background-color: #3e5bd1;
+    color: white;
+    margin: 3px;
+    text-decoration: none;
+    position: relative;
+    top:1.5em;
+}
+.middle>a:hover{
+    background-color: #2019c6
+}
+.hr{
+    width: 59%;
+    position: relative;
+    left: 21em;
+    color: #f5e9e9;
+    margin-bottom: 2em;
+}
+.late{
+    position: relative;
+    left: 21em;
+    width: 50%;
+}
+.late>h2{
+    font-size: 1.35em;
+}
+.block{
+    width: 28%;
+    text-align: center;
+    border:1px solid #f5e9e9;
+    height: 370px;
+    border-radius: 0.2em;
+    float:left;
+    margin: 0.6em
+}
+.block>img{
+    width: 95%;
+    margin-top: 0.3em;
+}
+h3{
+    margin-top: 0.99em;
+    font-size: 1.35em
+}
+.block>p{
+    padding: 0.7em;
+    line-height:1.3em;
+    margin: 0.5em
+}
+.block>a{
+    font-size: 1em;
+    border: 1px solid grey;
+    border-radius: 0.25em;
+    margin: 3px;
+    padding: 0.48em;
+    text-decoration: none;
+    list-style-type:none;
+    background-color: #3e5bd1;
+    color: white;
+}
+.block>a:hover{
+    background-color: #2019c6
+}
+.block>.aa{
+    color: black;
+    background-color:white;
+}
+.one{
+    position: relative;
+    top:-21.7em;
+    left: 48.1em;
+}
+.ha{
+    width:120%;
+    position: relative;
+    left: 0.1em;
+    top:-18.4em;
+    color: #f5e9e9;
+    color: grey;
+}
+.back>a{
+    text-decoration: none;
+    position: fixed;
+    top: 250px;
+    left:120px;
+    font-size: 2em;
+}
+.back>a:hover{
+    background-color: darkgoldenrod;
+    font-size: 40px;
+}
+footer{
+    position: relative;
+    top:-13.7em;
+}
