@@ -1,0 +1,102 @@
+*{
+    font-family:Microsoft JhengHei;
+    font-size: 18px;
+}
+header{
+    background-color: #2C3E50;
+}
+header>ul>li{
+    display: inline-block;
+    padding: 15px;
+    position: relative;
+    left: 20em;
+    margin: 1px;
+}
+header>ul>li a{
+    font-size: 2em;
+    color:aliceblue;
+    text-decoration: none;
+}
+header>ul>li a:hover{
+    color: aqua;
+    background-color: #bf1053;
+}
+h1{
+    font-size: 3em;
+    text-align: center
+}
+.introduce {
+    width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    overflow: auto;
+}
+.introduce>img {
+    width: 33%;
+    float: left;
+}
+.introduce>p {
+    width: 60%;
+    float: left;
+    font-size: 2.5em;
+    text-decoration: underline;
+    letter-spacing: 2.5px;
+}
+.menu{
+    text-align: center;
+}
+.around{
+    text-align: center;
+}
+h2{
+    font-size: 1.7em;
+    background-image: url(image/22.jpg);
+    width: 66%;
+    text-align:center;
+    position: relative;
+    left:330px;
+    border: 1px solid white;
+    border-radius: 50px;
+}
+.about{
+    text-align:center;
+}
+.about>p{
+    background-color: #98d465;
+    padding: 3px;
+    width: 50%;
+    position: relative;
+    left:480px;
+    border: 1px solid white;
+    border-radius: 50px;
+}
+.tran{
+    text-align: center;
+}
+h3{
+    font-size: 1.4em;
+    font-style: italic;
+    padding: 10px;
+}
+.back>a{
+    text-decoration:none;
+    font-size: 3em;
+    color: darkviolet;
+    font-family:標楷體;
+    position: fixed;
+    top:680px;
+    left: 1750px;
+}
+.back>a:hover{
+    border: 1px solid white;
+    padding: 20px;
+    border-radius: 40px;
+    font-size: 4.5em;
+    color: red;
+    font-family:Yu Gothic Medium;
+    background-image: url(image/27.jpg);
+}
+
+
+
+

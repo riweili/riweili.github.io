@@ -1,0 +1,284 @@
+
+*{
+    font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    
+}
+.one{
+    background: #2C3E50;
+    width:100%;
+    position: fixed;
+    top: -10px;
+}
+h1{
+    color: white;
+    font-size: 29px;
+    position: relative;
+    top:40px;
+    left: 368px;
+}
+nav ul>li{
+   list-style-type: none;
+    display: inline-block;
+    padding: 16px;
+    position: relative;
+    top:-18px;
+    left: 1125px;
+}
+nav a{
+     color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+nav>ul>li a:hover {
+    color: #18BC9C;
+}
+
+.two{
+    background: #18BC9C;
+    height: 765px;
+    color: white;
+    width:100%;
+}
+img{
+    position: relative;
+    top:200px;
+    left: 820px;
+}
+.p1{
+    position: relative;
+    top:180px;
+    left: 620px;
+    font-size: 65px;
+    font-weight: 700;
+}
+.p2{
+    width: 13%;
+    border-top: solid 5px;
+    position: relative;
+    top:145px;
+    left: 0px;
+}
+.p3{
+    position: relative;
+    top:160px;
+    left: 635px;
+    font-size: 22px;
+    font-weight:5;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+     position: relative;
+    top:65px;
+    left: -2px;
+    font-weight: 700;
+}
+.p5{
+    width: 12%;
+    border-top: solid 5px;
+    position: relative;
+    top:50px;
+    left: -2px;
+}
+.container{
+    width: 80%;
+    height: 750px;
+    padding: 10px;
+    border: 0px solid green;
+    margin: 0 auto;
+    overflow: auto;
+}
+a>img{
+    width:25%;
+    position: relative;
+    top:50px;
+    left: 145px;
+    margin: 12px;
+    
+}
+.three{
+    background: #18BC9C;
+    height: 550px;
+    color: white;
+    width:100%;
+}
+.p6{
+    font-size: 40px;
+     position: relative;
+    top:110px;
+    left: 870px;
+    font-weight: 700;
+}
+.p7{
+    width: 13%;
+    border-top: solid 5px;
+    position: relative;
+    top:90px;
+    left: -2px;
+}
+.container1{
+    width: 40%;
+    border: 0px solid ;
+    margin: 0 auto;
+    overflow: auto;
+    position: relative;
+    top:100px;
+    left: 0px;
+}
+.left {
+    width: 50%;
+    border: 0px solid black;
+    font-size: 18px;
+    float: left;
+    letter-spacing: 2px;
+     line-height: 25px;　
+}
+
+.right {
+    width: 50%;
+    border: 0px solid black;
+    float: left;
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-weight: 50;
+    line-height: 25px;
+}
+div.three>div>a{
+    display: block;
+    width: 190px;
+    border: 3px solid white;
+    border-radius: 11px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    top:105px;
+    left: -5px;
+    text-decoration: none;
+    color: white;
+}
+div.three>div>a:hover{
+    color:#18BC9C;
+    background-color: white;
+}
+.contact {
+    color: #2C3E50;
+    height: 350px;
+}
+div.contact >div.contact1{
+    width: 40%;
+    position: relative;
+    top:65px;
+    left: 540px;
+    border-top: solid #d0cccc 1px;
+}
+#contact{
+    border-bottom: solid #d0cccc 1px;
+}
+input{
+    border: none;
+    padding: 15px 0;
+    font-size: 20px;
+    width: 900px;
+}
+div.contact a {
+    color: #FFF;
+    padding: 10px;
+    background-color: #20BE9E;
+    border-radius: 5px;
+    font-size: 18px;
+    text-decoration: none;
+    position: relative;
+    left:-10px;
+    top: 50px
+}
+.address {
+    text-align: center;
+    font-size: 1.2em;
+    background-color: #283a4e;
+    height: 270px;
+    position: relative;
+    top: 200px;
+}
+.location{
+    position: relative;
+    top:70px;
+    left: -400px;
+}
+.around{
+    position: relative;
+    top:-78px;
+    left:0px;
+}
+.about{
+    position: relative;
+    top:-198px;
+    left:430px;
+}
+h4{
+    color: white;
+    font-size: 26px;
+}
+.p8{
+    color: white;
+    font-size: 20px;
+}
+div.around ul>li{
+    list-style-type: none;
+    display: inline-block;
+   
+}
+div.around ul>li img{
+    margin: -80px;
+    position: relative;
+    top: -70px;
+    left: -16px;
+}
+div.about a{
+    color: #20BE9E;
+    text-decoration: none;
+}
+div.about a:hover{
+    text-decoration:underline;
+}
+.footer{
+    padding: 25px 0px;
+    font-size: 17px;
+    text-align: center;
+    background-color: #233140;
+    position: relative;
+    top: 200px;
+    color: white;
+}
+.back{
+    color: blueviolet;
+    position: fixed;
+    top:830px;
+    left:1770px;
+    font-size: 25px;
+    background-color:chartreuse;
+    padding: 5px;
+    border: 8px outset;
+}
+.back>a{
+    text-decoration: none;
+}
+.back>a:hover{
+    background-color: darkgoldenrod;
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
